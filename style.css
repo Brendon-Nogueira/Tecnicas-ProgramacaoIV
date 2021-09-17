@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+#fundocinza, #fundocinza2{
+
+    background-color: rgb(109, 101, 101);
+}
+
+
+
+
+table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    border-color: black solid 2px;
+}
+
+
